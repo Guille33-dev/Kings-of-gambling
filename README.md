@@ -159,10 +159,6 @@ When a player wins, they see a celebration video and popup with options.
 
 This project was created for educational purposes.
 
-## Live Demo
-
-Visit the live version: [Kings of Gambling](kings-of-gambling.vercel.app)
-
 ## Contact
 
 Project Link: [https://github.com/Vega8991/Kings-of-gambling](https://github.com/Vega8991/Kings-of-gambling)
